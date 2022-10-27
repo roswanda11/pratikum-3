@@ -70,7 +70,7 @@ string = ""
 
 x = int(input("Masukkan angka :"))
 bar = x
-# Looping Baris
+        # Looping Baris
 while bar >= 0:
 	# Looping Kolom Spasi Kosong
 	kol = bar
@@ -92,7 +92,7 @@ while bar >= 0:
 	bar = bar - 1
 
 bar = 1	
-# Looping Baris
+        # Looping Baris
 while bar <= x:
 	kol = bar+1
 	# Looping Kolom Spasi Kosong
@@ -126,8 +126,29 @@ print (string)
 
 1. Rumus Luas Lingkaran yaitu phi/r atau phi*r^2
 
+![Screenshot (66)](https://user-images.githubusercontent.com/115516632/198232281-c7a0510d-c632-4ec8-b2cb-ac60a40da965.png)
 
+# Menginput Nilai Jari-Jari
 
+2. Masukkan jari-jari untuk mencari luas lingkaran
+
+![Screenshot (67)](https://user-images.githubusercontent.com/115516632/198233465-0c3a920c-d243-42ee-843e-fe85ecd12921.png)
+
+# Mendeklarasikan Nilai Phi
+
+3. Nilai phi yaitu 22/7 atau 3.14
+
+![Screenshot (68)](https://user-images.githubusercontent.com/115516632/198234227-eed6b617-21ed-4f04-adf2-37b22975c040.png)
+
+# Mencetak Hasil Luas Lingkaran
+
+![Screenshot (69)](https://user-images.githubusercontent.com/115516632/198234709-d6f32294-8cb1-40f0-8aad-3c4f749325f8.png)
+
+# Hasil Latihan 4 Luas Lingkaran
+
+![Screenshot (70)](https://user-images.githubusercontent.com/115516632/198236640-5838f4d0-c032-4ea7-816d-dc95130d5b9b.png)
+
+======= SEKIAN TERIMA KASIH =======
 
 
 
